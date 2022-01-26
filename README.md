@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Elsagaei</h1>
-<h3 align="center">Learning Codeing</h3>
+
 - 👯I’m interested in Computer Scince Engineering<br>
 - 🌱I’m currently learning Penetration testing<br>
 - 🤔 I’m looking for MENTORSHIP<br>
