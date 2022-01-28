@@ -4,7 +4,7 @@
 - 🌱I’m currently learning Penetration testing<br>
 - 🤔 I’m looking for MENTORSHIP<br>
 - 💬You can reach me by clicking on my social media accounts on my profile<br>
-- 😄 Pronouns: Amri<br>
+- 😄 Pronouns: He / Him<br>
 - ⚡ Fun fact: Easy Come Easy Go
 
 <!--
