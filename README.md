@@ -5,7 +5,7 @@
 - 🤔 I’m looking for MENTORSHIP<br>
 - 💬You can reach me by clicking on my social media accounts on my profile<br>
 - 😄 Pronouns: He / Him<br>
-- ⚡ Fun fact: Easy Come Easy Go😁
+- ⚡ Fun fact: Easy Come Easy Go
 
 <!--
 <h3 align="left">Connect with me:</h3>
