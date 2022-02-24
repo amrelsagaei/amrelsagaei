@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Elsagaei</h1>
 
-- 👯I’m interested in Computer Scince Engineering<br>
+- 👯I’m interested in Computer Science Engineering<br>
 - 🌱I’m currently learning Penetration testing<br>
 - 🤔 I’m looking for MENTORSHIP<br>
 - 💬You can reach me by clicking on my social media accounts on my profile<br>
