@@ -16,6 +16,8 @@
 </p>
 -->
 
+<iframe src="https://giphy.com/embed/hXMGQqJFlIQMOjpsKC" width="456" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buy-me-a-coffee-support-thanks-for-your-hXMGQqJFlIQMOjpsKC">via GIPHY</a></p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amrelsagaei"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amrelsagaei" /></a></p><br><br>
 
