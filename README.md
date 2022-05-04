@@ -18,8 +18,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amrelsagaei"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amrelsagaei" /></a></p><br>
-<a href="https://www.patreon.com/amrelsagaei" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
+<a href="https://www.patreon.com/bePatron?u=68747028" data-patreon-widget-type="become-patron-button" >Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js" height="50" width="210" alt="amrelsagaei"></script>
 
 
 <h3 align="left">Languages and Tools:</h3>
