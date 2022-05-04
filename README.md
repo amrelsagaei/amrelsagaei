@@ -19,7 +19,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amrelsagaei"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amrelsagaei" /></a>
  
- <a href="https://www.patreon.com/amrelsagaei"> <img align="left" src="https://awhikax.com/assets/pmc/support_me_on_patreon.png" height="50" width="210" alt="amrelsagaei" /></a>
+ <a href="https://www.patreon.com/amrelsagaei"> <img align="left" src="https://awhikax.com/assets/pmc/support_me_on_patreon.png" height="50" width="230" alt="amrelsagaei" /></a>
 </p><br><br>
 
 
