@@ -17,9 +17,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amrelsagaei"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="amrelsagaei" /></a>
-  
-  
-<script src="https://tryhackme.com/badge/899488"></script>
 </p><br><br>
 
 
